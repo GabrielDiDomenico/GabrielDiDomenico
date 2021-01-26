@@ -5,4 +5,4 @@
 - 📫 How to reach me: gddomenico@inf.ufsm.br
 - :elephant: Fun fact: I... actually... like... PHP and JS Vanilla
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GabrielDiDomenico&count_private=true&show_icons=true&theme=dracula)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GabrielDiDomenico&show_icons=true&theme=dracula)
