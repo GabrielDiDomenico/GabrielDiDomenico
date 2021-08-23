@@ -2,8 +2,8 @@
 
 Hi, my name is Gabriel Di Domenico and I'm a student at Federal University of Santa Maria. 
 
-- 🎓 I’m currently working on PET-CC
-- :newspaper: I’m currently learning about Web development
+- 🎓 I’m currently working on SIS-Astros
+- :newspaper: I’m currently learning about Unity
 - 📫 How to reach me: gddomenico@inf.ufsm.br
 - :elephant: Fun fact: I... actually... like... PHP and JS Vanilla
 
