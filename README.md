@@ -5,7 +5,6 @@ Hi, my name is Gabriel Di Domenico and I'm a student at Federal University of Sa
 - 🎓 I’m currently working on SIS-ASTROS GMF
 - :newspaper: I’m currently learning about Unity
 - 📫 How to reach me: gddomenico@inf.ufsm.br
-- :elephant: Fun fact: I... actually... like... PHP
 
 
 <a href="#">
