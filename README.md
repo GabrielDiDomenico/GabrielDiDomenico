@@ -1,6 +1,6 @@
 ### Hello there :eyes:
 
-My name is Gabriel Di Domenico and I'm a student at Federal University of Santa Maria. 
+My name is Gabriel Di Domenico and I'm a Master's student at Federal University of Santa Maria. 
 
 - 🎓 Currently working on SIS-ASTROS GMF
 - :newspaper: Learning about Unity and Virtual Reality
